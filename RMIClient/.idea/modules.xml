@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RMIClient1/RMIClient1.iml" filepath="$PROJECT_DIR$/RMIClient1/RMIClient1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RMIClient2/RMIClient2.iml" filepath="$PROJECT_DIR$/RMIClient2/RMIClient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RMIClient.iml" filepath="$PROJECT_DIR$/.idea/RMIClient.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45901128-1ced-4aff-8c38-2169e48f30b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RMIClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RMIClient3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RMIClient3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RMIClient3/src/main/java/org/vul/RMIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/RMIServer3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/RMIServer3/src/main/java/org/vul/RMIRegistryServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/RMIServer3/src/main/java/org/vul/poc/EvilObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/RMIServer3/target/classes/org/vul/poc/EvilObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RMIClient1/RMIClient1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RMIClient2/RMIClient2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/RMIServer3/RMIServer3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RMIClient2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RMIClient2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/RMIServer1/target/classes/org/vul/impl/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/RMIServer1/target/classes/org/vul/impl/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/RMIServer1/target/classes/org/vul/inter/IHello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/RMIServer1/target/classes/org/vul/inter/IHello.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Software\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22Etk2GIEmm113QZ3mv801ARy6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45901128-1ced-4aff-8c38-2169e48f30b0" name="Default Changelist" comment="" />
+      <created>1639414713624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639414713624</updated>
+      <workItem from="1639414714997" duration="30000" />
+      <workItem from="1639414751350" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1639414783336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1639414783336" />
+  </component>
+</project>

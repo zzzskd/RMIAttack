@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/RMIServer1/pom.xml" />
         <option value="$PROJECT_DIR$/RMIServer2/pom.xml" />
+        <option value="$PROJECT_DIR$/RMIServer3/pom.xml" />
       </list>
     </option>
   </component>

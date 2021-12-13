@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RMIServer2" />
         <module name="RMIServer1" />
+        <module name="RMIServer3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="RMIServer1" target="6" />
       <module name="RMIServer2" target="6" />
+      <module name="RMIServer3" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
