@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\JavaProject\RMIServer\.idea/dataSources/
+/../../../../../:\Demo\RMIAttack\RMIServer\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
