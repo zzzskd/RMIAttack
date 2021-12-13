@@ -9,5 +9,5 @@ import java.rmi.RemoteException;
     interface 接口
  */
 public interface IHello extends Remote {
-    public String sayHello(Object person) throws RemoteException;
+    public String sayHello(Person person) throws RemoteException;
 }
