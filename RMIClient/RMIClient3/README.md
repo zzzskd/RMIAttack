@@ -6,3 +6,10 @@
 
 #### 条件
 
+jdk < 8u121
+
+or
+
+```java
+System.setProperty("com.sun.jndi.rmi.object.trustURLCodebase","true");
+```

@@ -2,7 +2,7 @@
 
 #### 原理 
 
-利用 Server 会反序列化 Client 传入的参数。在 Client 端获取到 Server 端创建的 Stub 后，会在本地调用这个Stub 并传递参数， Stub 会序列化这个参数，
+利用 Server 会反序列化 Client 传入的参数。在 Client 端获取到 Server 对应的 Stub 后，会在本地调用这个Stub 并传递参数， Stub 会序列化这个参数，
 并传递给 Server 端， Server 端会反序列化 Client 端传入的参数之后进行调用。
 
 #### 条件
